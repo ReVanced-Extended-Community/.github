@@ -4,4 +4,4 @@
 
 | Project Name | Description |
 |:--------:|:--------------:|
-| Patches Documentation | Additional community documentation with screenshots for the various ReVanced Extended patches. |
+| [Patches Documentation](https://github.com/ReVanced-Extended-Community/Patches-Documentation) | Additional community documentation with screenshots for the various ReVanced Extended patches. |

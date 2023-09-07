@@ -1,6 +1,6 @@
 ## What is ReVanced Extended?
 
-ReVanced Extended is a derivative project of ReVanced of just patches made for YouTube, YT Music, and Reddit. ReVanced Extended has some extra features on top of what ReVanced offers and was developed independently by [inotia00](https://github.com/inotia00). The project was [discontinued](https://github.com/inotia00/revanced-documentation/wiki/Announcement) on August 5th, 2023.
+ReVanced Extended is a derivative project of ReVanced of just patches made for YouTube, YT Music, and Reddit. ReVanced Extended has some extra features on top of what ReVanced offers and is developed independently by [inotia00](https://github.com/inotia00).
 
 ## ReVanced Extended Community
 

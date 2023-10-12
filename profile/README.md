@@ -11,6 +11,7 @@ This organization is a collection of community repositories for general document
 | Project Name | Description |
 |:--------:|:--------------:|
 | [Patches Documentation (with screenshots)](https://github.com/ReVanced-Extended-Community/Patches-Documentation) | Example screenshots for all ReVanced Extended patches. |
+| [Community Guides](https://github.com/ReVanced-Extended-Community/Community-Guides) | Community managed guides. |
 
 ___
 <div style="text-align: center;">

@@ -13,7 +13,7 @@ This organization is a collection of community repositories for general document
 | [Community Guides](https://github.com/ReVanced-Extended-Community/Community-Guides) | Community managed guides. |
 
 ___
-<div style="text-align: center;">
+<div style="text-align: left;">
     <strong>Official Links</strong>
     <br /><br />
     <p align="left">
